@@ -1,11 +1,21 @@
-#include<iostream>
+#include <iostream>
 
 using namespace std;
 
 int numeri[10];
 
+void pippuzzo ()
+{
+    cout<<"Gabri Cuea ";
+}
+
 int main()
 {
+    while (TRUE)
+    {
+         pippuzzo();
+    }
+    
     int i;
     for(i=0; i<10; i++)
     {
